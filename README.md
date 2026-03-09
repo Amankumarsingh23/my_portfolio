@@ -1,6 +1,6 @@
 # 🚀 Aman Kumar Singh — Personal Portfolio
 
-> **Live:** [amankumarsingh.netlify.app](https://amankumarsingh.netlify.app) &nbsp;|&nbsp; **Built by:** [Aman Kumar Singh](https://github.com/Amankumarsingh23)
+> **Live:** [amankumarsingh.netlify.app](https://aman-kumar-singh.netlify.app) &nbsp;|&nbsp; **Built by:** [Aman Kumar Singh](https://github.com/Amankumarsingh23)
 
 A dark terminal-aesthetic personal portfolio website built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no build tools, no dependencies. Just 5 self-contained HTML files.
 
